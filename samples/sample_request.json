@@ -1,0 +1,11 @@
+{
+  "event_name": "Python Backend Bootcamp 2026",
+  "issued_by": "CDAC Pune",
+  "issue_date": "2026-10-01",
+  "recipients": [
+    {"name": "Amit Sharma", "email": "amit.sharma@example.com", "course": "Backend Development"},
+    {"name": "Priya Patil", "email": "priya.patil@example.com"},
+    {"name": "Rahul Verma", "email": "rahul.verma@example.com", "course": "Backend Development"},
+    {"name": "", "email": "invalid-email"}
+  ]
+}
